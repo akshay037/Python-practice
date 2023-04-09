@@ -1,4 +1,4 @@
-# Task number 18 :- Python Program to Display the multiplication Table
+# Task number 18 :- Python Program to Print the Fibonacci sequence
 
 nterms = int(input("How many terms? "))
 
